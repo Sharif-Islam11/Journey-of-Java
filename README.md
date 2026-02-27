@@ -11,7 +11,9 @@ This project explains the basics of Java programming and made for beginners to u
 Output means showing data to the user.
 We use System.out.println().
 Example:
+```java
 System.out.println("Hello World");
+```
 
 ### 2. Input
 Input means taking data from the user.
