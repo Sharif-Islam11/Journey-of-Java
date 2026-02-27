@@ -24,6 +24,7 @@ import java.util.Scanner;
 Scanner input = new Scanner(System.in);
 int number = input.nextInt();
 String text = input.nextLine();
+```
 
 ### 3. Variables
 Variables are used to store data in a program.
@@ -31,3 +32,4 @@ Example:
 ```java
 int number = 10;
 String name = "Sharif";
+```
