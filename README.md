@@ -22,7 +22,7 @@ import java.util.Scanner;
 Scanner input = new Scanner(System.in);
 int number = input.nextInt();
 
-### 1. Variables
+### 3. Variables
 Variables are used to store data in a program.
 Example:
 ```java
