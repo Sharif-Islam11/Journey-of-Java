@@ -13,14 +13,17 @@ We use System.out.println().
 Example:
 System.out.println("Hello World");
 
-### 2. Taking input from users
+### 2. Input
 Input means taking data from the user.
-We use the Scanner class in Java.
+In Java, we use the Scanner class.
+
 Example:
+```java
 import java.util.Scanner;
 
 Scanner input = new Scanner(System.in);
 int number = input.nextInt();
+String text = input.nextLine();
 
 ### 3. Variables
 Variables are used to store data in a program.
